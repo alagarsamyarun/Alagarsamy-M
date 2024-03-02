@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alagarsamyarun
-- 👀 I’m interested software engineering and development
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m **Alagarsamy M**.
+- 👀 I’m interested in **software engineering**. 
+- 🌱 I’m currently pursuing my **B.Tech in Information Technology**.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me - via email   alagarsamyarun101@gmail.com
 
 <!---
